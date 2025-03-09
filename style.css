@@ -1,0 +1,17 @@
+body {
+	
+	color: black;
+	text-align: center;
+	background-image: url('conc.jpg');
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: cover;
+  	font-family: "Crimson Text", serif;
+
+}
+.container {
+	background-color: rgba(255, 255, 255, .5);
+	border: 1px solid black;
+	padding: 15px;
+
+}
