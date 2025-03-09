@@ -16,3 +16,22 @@ body {
   background-color: whitesmoke;
   border-radius: 15px;
 }
+
+.navbar{
+    background-color: darkred;
+    padding: 10px;
+}
+.navbar ul{
+    text-align: center;
+}
+.navbar li{
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.navbar li a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px;
+}
