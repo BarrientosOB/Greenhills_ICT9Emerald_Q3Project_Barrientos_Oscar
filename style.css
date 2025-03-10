@@ -9,13 +9,13 @@ body {
   	font-family: "Crimson Text", serif;
 
 }
+
 .container {
-  margin: 50px auto;
-  max-width: 800px;
-  padding: 20px;
-  background-color: whitesmoke;
-  border-radius: 15px;
-}
+  background-color: rgba(255, 192, 203, 0.5);
+  border: 1px solid white;
+  padding: 15px;
+  text-align: left;
+} 
 
 .navbar{
     background-color: darkred;
