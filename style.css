@@ -48,6 +48,7 @@ table {
 border-collapse: collapse;
 width: 80%;
 margin: auto;
-background-color: white;
+background-color: red;
 border: 3px solid black;
+boredr-radius: 10px;
 }
