@@ -45,9 +45,7 @@ padding: 10px;
 }
 
 table {
-border-collapse: separate;
-border-spacing: 5px;
-border-radius: 10px;
+border-collapse: collapse;
 width: 80%;
 margin: auto;
 background-color: white;
