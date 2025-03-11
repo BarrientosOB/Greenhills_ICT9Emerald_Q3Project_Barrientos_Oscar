@@ -45,8 +45,8 @@ padding: 10px;
 }
 
 table {
-border-collapse: collapse;
-width: 80%;
+border-collapse: separate;
+width: ;
 margin: auto;
 background-color: white;
 border: 3px solid black;
